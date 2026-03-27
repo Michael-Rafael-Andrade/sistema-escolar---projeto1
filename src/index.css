@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dark-mode{
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+}
+
+.light-mode{
+  background-color: white;
+  color: black;
+}
